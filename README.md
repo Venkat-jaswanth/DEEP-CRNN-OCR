@@ -16,13 +16,12 @@ CTC Loss	Enables training without alignment
 The trained model achieves 95%+ accuracy when recognizing word images it was never trained on — proving true character-learning rather than memorization.
 
 ✨ Features
-
-✔ Trained only on single-character images
-✔ Evaluated on unseen word images (zero-shot test)
-✔ Handles font variations & Gaussian noise
-✔ CTC decoding for variable-length transcription
-✔ Visual output of predictions on test samples
-✔ Fully implemented in PyTorch
+- Trained only on single-character images
+- Evaluated on unseen word images (zero-shot test)
+- Handles font variations & Gaussian noise
+- CTC decoding for variable-length transcription
+- Visual output of predictions on test samples
+- Fully implemented in PyTorch
 
 🗂 Dataset Description
 
